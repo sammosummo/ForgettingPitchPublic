@@ -15,6 +15,7 @@ Below are some details on the contents of this repo.
 
 * `main.py`: Execution script for all analysis.
 * `data.csv`: Raw data in comma-separated value (CSV) format.
+* `models/`: Results of the modeling. Contains all files except the MCMC posterior samples—those were too big for GitHub.
 
 Please note that the analysis reported in this study relied upon Python and a number of third-party Python packages
 that are maintained by unpaid developers. If you are reading this many years after the study was published, it is
